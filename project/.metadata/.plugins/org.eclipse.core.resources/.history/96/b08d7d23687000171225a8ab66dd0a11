@@ -1,0 +1,9 @@
+package com.niit.dao;
+
+public interface User {
+	
+	public boolean saveorupdate(User user);
+	public boolean delete(User user);
+	public 
+
+}
